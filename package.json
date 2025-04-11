@@ -1,12 +1,12 @@
 {
-  "name": "lightweight-calendar-vite",
+  "name": "react-lightweight-calendar-vite",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mazaheriMahdi/react-lightweight-calendar"
+    "url": "git+https://github.com/mazaheriMahdi/react-lightweight-calendar.git"
   },
   "scripts": {
     "dev": "vite",
